@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "2.0",
+  "versionCode": 12,
+  "versionName": "2.1",
   "apkUrl": "https://raw.githubusercontent.com/Roadrunner2204/Slalom-Livetiming/main/SlalomOEM-Livetiming.apk",
-  "notes": "Divisionen werden jetzt automatisch erkannt + In-App-Update"
+  "notes": "Klassen/Divisionen automatisch aus den Live-Daten + viel größere Damen-Namensliste (auch international)"
 }
