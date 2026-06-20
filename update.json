@@ -1,6 +1,6 @@
 {
-  "versionCode": 20,
-  "versionName": "2.9",
-  "apkUrl": "https://raw.githubusercontent.com/Roadrunner2204/Slalom-Livetiming/main/SlalomOEM-Livetiming-20.apk",
-  "notes": "Wertung nutzt beste verfügbare Zeit (Training/Lauf); Damen-Abstand zum Schnellsten der Klasse. Versionierte APK gegen Update-Schleife."
+  "versionCode": 21,
+  "versionName": "3.0",
+  "apkUrl": "https://raw.githubusercontent.com/Roadrunner2204/Slalom-Livetiming/main/SlalomOEM-Livetiming-21.apk",
+  "notes": "Damenwertung nach absoluter Zeit sortiert (schnellste zuerst), Gap zum Klassen-Schnellsten als Info."
 }
