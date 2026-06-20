@@ -1,6 +1,6 @@
 {
-  "versionCode": 13,
-  "versionName": "2.2",
+  "versionCode": 14,
+  "versionName": "2.3",
   "apkUrl": "https://raw.githubusercontent.com/Roadrunner2204/Slalom-Livetiming/main/SlalomOEM-Livetiming.apk",
-  "notes": "Update-Installation repariert (Download in Downloads-Ordner + Erlaubnis-Abfrage)"
+  "notes": "Klassen-Fallback: bei Events ohne Klassen im Feed werden sie aus der Nennliste (classmap) ergänzt. Update-Installation repariert."
 }
