@@ -1,6 +1,6 @@
 {
  "event": "OOE-Cup / Race Cup Kärnten – Fohnsdorf 20.06.2026",
- "note": "Cup-Klassen (OOE/RCK). O+K = beide. Fallback bei leerem cl im Feed.",
+ "note": "Cup-Klassen (OOE/RCK). O+K=beide. Ohne Cup-Kürzel -> RCK. Fallback bei leerem cl.",
  "byStartNo": {
   "1": [
    "Sonderwertung Challenge bis 90PS"
@@ -158,7 +158,6 @@
    "RCK Div. I über 2000ccm 4WD"
   ],
   "407": [
-   "OOE Div. I bis 2000ccm",
    "RCK Div. I bis 2000ccm"
   ],
   "409": [
@@ -224,7 +223,6 @@
    "RCK Div. II über 2000ccm 4WD"
   ],
   "807": [
-   "OOE Div. II über 2000ccm",
    "RCK Div. II über 2000ccm 2WD"
   ],
   "825": [
@@ -249,11 +247,9 @@
    "RCK Div. I bis 1600ccm"
   ],
   "1117": [
-   "OOE Div. I bis 1600ccm",
    "RCK Div. I bis 1600ccm"
   ],
   "1118": [
-   "OOE Div. I bis 1600ccm",
    "RCK Div. I bis 1600ccm"
   ],
   "1202": [
@@ -273,7 +269,6 @@
    "RCK Div. I bis 2000ccm"
   ],
   "1231": [
-   "OOE Div. I über 2000ccm 2WD",
    "RCK Div. I über 2000ccm 2WD"
   ],
   "1305": [
@@ -283,14 +278,12 @@
    "RCK Div. I über 2000ccm 2WD"
   ],
   "1314": [
-   "OOE Div. I über 2000ccm 2WD",
    "RCK Div. I über 2000ccm 2WD"
   ],
   "1315": [
    "RCK Div. I über 2000ccm 2WD"
   ],
   "1316": [
-   "OOE Div. I über 2000ccm 2WD",
    "RCK Div. I über 2000ccm 2WD"
   ],
   "1317": [
@@ -371,11 +364,9 @@
    "RCK Div. II bis 2000ccm"
   ],
   "1611": [
-   "OOE Div. II bis 2000ccm",
    "RCK Div. II bis 2000ccm"
   ],
   "1703": [
-   "OOE Div. II über 2000ccm",
    "RCK Div. II über 2000ccm 2WD"
   ],
   "1704": [
