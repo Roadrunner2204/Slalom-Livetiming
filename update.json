@@ -1,6 +1,6 @@
 {
-  "versionCode": 19,
-  "versionName": "2.8",
-  "apkUrl": "https://raw.githubusercontent.com/Roadrunner2204/Slalom-Livetiming/main/SlalomOEM-Livetiming.apk",
-  "notes": "Damenwertung nach OOE/RCK gruppiert. Einstellungs-Menü: Damenwertung + Cup-Wertung (OOE/RCK/O+K manuell)."
+  "versionCode": 20,
+  "versionName": "2.9",
+  "apkUrl": "https://raw.githubusercontent.com/Roadrunner2204/Slalom-Livetiming/main/SlalomOEM-Livetiming-20.apk",
+  "notes": "Wertung nutzt beste verfügbare Zeit (Training/Lauf); Damen-Abstand zum Schnellsten der Klasse. Versionierte APK gegen Update-Schleife."
 }
