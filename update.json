@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "2.4",
+  "versionCode": 16,
+  "versionName": "2.5",
   "apkUrl": "https://raw.githubusercontent.com/Roadrunner2204/Slalom-Livetiming/main/SlalomOEM-Livetiming.apk",
-  "notes": "Update lädt jetzt nur herunter – Installation über die Android-Benachrichtigung (zuverlässiger). Plus Klassen aus der Nennliste."
+  "notes": "Cup-Klassen (OOE/RCK) wie im offiziellen Leaderboard. O+K-Fahrer in beiden Cups, Damenwertung pro Cup-Klasse."
 }
