@@ -1,6 +1,6 @@
 {
-  "versionCode": 17,
-  "versionName": "2.6",
+  "versionCode": 18,
+  "versionName": "2.7",
   "apkUrl": "https://raw.githubusercontent.com/Roadrunner2204/Slalom-Livetiming/main/SlalomOEM-Livetiming.apk",
-  "notes": "Damenwertung jetzt nach Cup-Klasse gruppiert (OOE und RCK getrennt)."
+  "notes": "Einstellungs-Menü: Damenwertung + Cup-Wertung (Fahrer manuell auf OOE/RCK/O+K stellen)."
 }
