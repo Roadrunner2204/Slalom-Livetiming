@@ -1,6 +1,6 @@
 {
-  "versionCode": 27,
-  "versionName": "3.6",
-  "apkUrl": "https://raw.githubusercontent.com/Roadrunner2204/Slalom-Livetiming/main/SlalomOEM-Livetiming-27.apk",
-  "notes": "Wertung = Summe der 2 besten Wertungslaeufe. Wer keine 2 gueltigen hat (DNF), ist nicht gewertet (kein falscher Platz, korrekte Klassen-/Damen-Gaps)."
+  "versionCode": 28,
+  "versionName": "3.7",
+  "apkUrl": "https://raw.githubusercontent.com/Roadrunner2204/Slalom-Livetiming/main/SlalomOEM-Livetiming-28.apk",
+  "notes": "Neu: 'Wertung aendern' (Umnennung am Renntag, synchron auf alle Geraete) + Hilfe-Seite in den Einstellungen."
 }
