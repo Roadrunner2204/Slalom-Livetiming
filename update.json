@@ -1,6 +1,6 @@
 {
-  "versionCode": 24,
-  "versionName": "3.3",
-  "apkUrl": "https://raw.githubusercontent.com/Roadrunner2204/Slalom-Livetiming/main/SlalomOEM-Livetiming-24.apk",
-  "notes": "Neuer Button 'Cache löschen' (Daten komplett neu laden). Klassen-Karte gilt nur am jeweiligen Renntag (ÖM morgen automatisch sauber)."
+  "versionCode": 25,
+  "versionName": "3.4",
+  "apkUrl": "https://raw.githubusercontent.com/Roadrunner2204/Slalom-Livetiming/main/SlalomOEM-Livetiming-25.apk",
+  "notes": "DNF/Aus korrekt: ab 1. Wertungslauf zaehlt kein Training mehr; ohne gueltige Wertungszeit keine Wertung. Korrigiert auch Klassen-Erste und Damen-Gap."
 }
