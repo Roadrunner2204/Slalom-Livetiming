@@ -1,6 +1,6 @@
 {
-  "versionCode": 23,
-  "versionName": "3.2",
-  "apkUrl": "https://raw.githubusercontent.com/Roadrunner2204/Slalom-Livetiming/main/SlalomOEM-Livetiming-23.apk",
-  "notes": "Strafsekunden werden eingerechnet. Ab 1. Wertungslauf zaehlen nur Wertungslaeufe; Summe der 2 besten von 3 (wie zg)."
+  "versionCode": 24,
+  "versionName": "3.3",
+  "apkUrl": "https://raw.githubusercontent.com/Roadrunner2204/Slalom-Livetiming/main/SlalomOEM-Livetiming-24.apk",
+  "notes": "Neuer Button 'Cache löschen' (Daten komplett neu laden). Klassen-Karte gilt nur am jeweiligen Renntag (ÖM morgen automatisch sauber)."
 }
