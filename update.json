@@ -1,6 +1,6 @@
 {
-  "versionCode": 21,
-  "versionName": "3.0",
-  "apkUrl": "https://raw.githubusercontent.com/Roadrunner2204/Slalom-Livetiming/main/SlalomOEM-Livetiming-21.apk",
-  "notes": "Damenwertung nach absoluter Zeit sortiert (schnellste zuerst), Gap zum Klassen-Schnellsten als Info."
+  "versionCode": 22,
+  "versionName": "3.1",
+  "apkUrl": "https://raw.githubusercontent.com/Roadrunner2204/Slalom-Livetiming/main/SlalomOEM-Livetiming-22.apk",
+  "notes": "Damenwertung: Reihenfolge nach Abstand zur 1. Person der eigenen Klasse (Sommer-Roetzer, Mair-Kraxner)."
 }
