@@ -1,6 +1,7 @@
 {
  "event": "OOE-Cup / Race Cup Kärnten – Fohnsdorf 20.06.2026",
- "note": "Granulare Klasse + Cup. App berechnet OOE/RCK-Klassen (O+K=beide). Manuell in der App umstellbar.",
+ "date": "20.06.2026",
+ "note": "Granulare Klasse + Cup. App berechnet OOE/RCK-Klassen (O+K=beide). Manuell in der App umstellbar. Gilt nur am angegebenen Datum.",
  "byStartNo": {
   "1": {
    "cls": "Sonderwertung Challenge bis 90PS"
