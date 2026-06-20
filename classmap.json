@@ -1,412 +1,500 @@
 {
  "event": "OOE-Cup / Race Cup Kärnten – Fohnsdorf 20.06.2026",
- "note": "Cup-Klassen (OOE/RCK). O+K=beide. Ohne Cup-Kürzel -> RCK. Fallback bei leerem cl.",
+ "note": "Granulare Klasse + Cup. App berechnet OOE/RCK-Klassen (O+K=beide). Manuell in der App umstellbar.",
  "byStartNo": {
-  "1": [
-   "Sonderwertung Challenge bis 90PS"
-  ],
-  "2": [
-   "Sonderwertung Challenge bis 90PS"
-  ],
-  "3": [
-   "Sonderwertung Challenge bis 90PS"
-  ],
-  "4": [
-   "Sonderwertung Challenge bis 90PS"
-  ],
-  "5": [
-   "Sonderwertung Challenge bis 90PS"
-  ],
-  "6": [
-   "Sonderwertung Challenge bis 90PS"
-  ],
-  "11": [
-   "Sonderwertung Challenge bis 150PS"
-  ],
-  "21": [
-   "Sonderwertung GR-Challenge"
-  ],
-  "22": [
-   "Sonderwertung GR-Challenge"
-  ],
-  "23": [
-   "Sonderwertung GR-Challenge"
-  ],
-  "24": [
-   "Sonderwertung GR-Challenge"
-  ],
-  "25": [
-   "Sonderwertung GR-Challenge"
-  ],
-  "26": [
-   "Sonderwertung GR-Challenge"
-  ],
-  "27": [
-   "Sonderwertung GR-Challenge"
-  ],
-  "28": [
-   "Sonderwertung GR-Challenge"
-  ],
-  "29": [
-   "Sonderwertung GR-Challenge"
-  ],
-  "30": [
-   "Sonderwertung GR-Challenge"
-  ],
-  "31": [
-   "Sonderwertung GR-Challenge"
-  ],
-  "32": [
-   "Sonderwertung GR-Challenge"
-  ],
-  "33": [
-   "Sonderwertung GR-Challenge"
-  ],
-  "34": [
-   "Sonderwertung GR-Challenge"
-  ],
-  "35": [
-   "Sonderwertung GR-Challenge"
-  ],
-  "36": [
-   "Sonderwertung GR-Challenge"
-  ],
-  "37": [
-   "Sonderwertung GR-Challenge"
-  ],
-  "38": [
-   "Sonderwertung GR-Challenge"
-  ],
-  "39": [
-   "Sonderwertung GR-Challenge"
-  ],
-  "61": [
-   "OOE Div. III Formelfrei"
-  ],
-  "66": [
-   "OOE Div. III Formelfrei"
-  ],
-  "69": [
-   "OOE Div. III Formelfrei"
-  ],
-  "81": [
-   "OOE Div. III Formelfrei"
-  ],
-  "144": [
-   "RCK Div. I bis 1600ccm"
-  ],
-  "147": [
-   "OOE Div. I bis 1600ccm",
-   "RCK Div. I bis 1600ccm"
-  ],
-  "148": [
-   "OOE Div. I bis 1600ccm",
-   "RCK Div. I bis 1600ccm"
-  ],
-  "155": [
-   "OOE Div. I bis 1600ccm"
-  ],
-  "167": [
-   "OOE Div. I bis 1600ccm",
-   "RCK Div. I bis 1600ccm"
-  ],
-  "241": [
-   "RCK Div. I über 2000ccm 2WD"
-  ],
-  "293": [
-   "OOE Div. I über 2000ccm 4WD"
-  ],
-  "295": [
-   "OOE Div. I über 2000ccm 4WD",
-   "RCK Div. I über 2000ccm 4WD"
-  ],
-  "298": [
-   "OOE Div. I über 2000ccm 4WD"
-  ],
-  "301": [
-   "OOE Div. I über 2000ccm 4WD"
-  ],
-  "321": [
-   "OOE Div. I über 2000ccm 4WD"
-  ],
-  "335": [
-   "OOE Div. I bis 1600ccm"
-  ],
-  "336": [
-   "OOE Div. I bis 1600ccm"
-  ],
-  "337": [
-   "OOE Div. I bis 2000ccm"
-  ],
-  "338": [
-   "OOE Div. I Sammelklasse"
-  ],
-  "343": [
-   "OOE Div. I bis 1600ccm"
-  ],
-  "345": [
-   "OOE Div. I bis 1600ccm"
-  ],
-  "347": [
-   "OOE Div. I bis 2000ccm"
-  ],
-  "354": [
-   "OOE Div. I bis 2000ccm",
-   "RCK Div. I bis 2000ccm"
-  ],
-  "406": [
-   "RCK Div. I über 2000ccm 4WD"
-  ],
-  "407": [
-   "RCK Div. I bis 2000ccm"
-  ],
-  "409": [
-   "OOE Div. I bis 2000ccm"
-  ],
-  "452": [
-   "OOE Div. I über 2000ccm 4WD"
-  ],
-  "454": [
-   "OOE Div. I über 2000ccm 2WD"
-  ],
-  "455": [
-   "OOE Div. I über 2000ccm 2WD"
-  ],
-  "456": [
-   "OOE Div. I über 2000ccm 2WD"
-  ],
-  "515": [
-   "RCK Div. II bis 1600ccm"
-  ],
-  "651": [
-   "OOE Div. II bis 1600ccm"
-  ],
-  "652": [
-   "OOE Div. II bis 1600ccm"
-  ],
-  "691": [
-   "OOE Div. II bis 1600ccm"
-  ],
-  "705": [
-   "OOE Div. II bis 2000ccm",
-   "RCK Div. II bis 2000ccm"
-  ],
-  "709": [
-   "OOE Div. II bis 1600ccm",
-   "RCK Div. II bis 1600ccm"
-  ],
-  "751": [
-   "OOE Div. II bis 2000ccm"
-  ],
-  "753": [
-   "OOE Div. II bis 2000ccm"
-  ],
-  "758": [
-   "OOE Div. II bis 2000ccm",
-   "RCK Div. II bis 2000ccm"
-  ],
-  "760": [
-   "OOE Div. II bis 2000ccm"
-  ],
-  "799": [
-   "OOE Div. II bis 2000ccm"
-  ],
-  "802": [
-   "OOE Div. II über 2000ccm"
-  ],
-  "805": [
-   "OOE Div. II über 2000ccm",
-   "RCK Div. II über 2000ccm 4WD"
-  ],
-  "806": [
-   "OOE Div. II über 2000ccm",
-   "RCK Div. II über 2000ccm 4WD"
-  ],
-  "807": [
-   "RCK Div. II über 2000ccm 2WD"
-  ],
-  "825": [
-   "RCK Div. II über 2000ccm 4WD"
-  ],
-  "856": [
-   "OOE Div. II über 2000ccm",
-   "RCK Div. II über 2000ccm 4WD"
-  ],
-  "1104": [
-   "RCK Div. I bis 1600ccm"
-  ],
-  "1105": [
-   "OOE Div. I bis 1600ccm",
-   "RCK Div. I bis 1600ccm"
-  ],
-  "1109": [
-   "RCK Div. I bis 1600ccm"
-  ],
-  "1116": [
-   "OOE Div. I bis 1600ccm",
-   "RCK Div. I bis 1600ccm"
-  ],
-  "1117": [
-   "RCK Div. I bis 1600ccm"
-  ],
-  "1118": [
-   "RCK Div. I bis 1600ccm"
-  ],
-  "1202": [
-   "OOE Div. I bis 2000ccm",
-   "RCK Div. I bis 2000ccm"
-  ],
-  "1204": [
-   "RCK Div. I bis 2000ccm"
-  ],
-  "1206": [
-   "RCK Div. I bis 2000ccm"
-  ],
-  "1207": [
-   "RCK Div. I bis 2000ccm"
-  ],
-  "1208": [
-   "RCK Div. I bis 2000ccm"
-  ],
-  "1231": [
-   "RCK Div. I über 2000ccm 2WD"
-  ],
-  "1305": [
-   "RCK Div. I über 2000ccm 2WD"
-  ],
-  "1312": [
-   "RCK Div. I über 2000ccm 2WD"
-  ],
-  "1314": [
-   "RCK Div. I über 2000ccm 2WD"
-  ],
-  "1315": [
-   "RCK Div. I über 2000ccm 2WD"
-  ],
-  "1316": [
-   "RCK Div. I über 2000ccm 2WD"
-  ],
-  "1317": [
-   "RCK Div. I über 2000ccm 2WD"
-  ],
-  "1319": [
-   "RCK Div. I über 2000ccm 2WD"
-  ],
-  "1320": [
-   "RCK Div. I über 2000ccm 2WD"
-  ],
-  "1321": [
-   "RCK Div. I über 2000ccm 2WD"
-  ],
-  "1404": [
-   "RCK Div. II bis 2000ccm"
-  ],
-  "1408": [
-   "RCK Div. I über 2000ccm 4WD"
-  ],
-  "1409": [
-   "RCK Div. I über 2000ccm 4WD"
-  ],
-  "1410": [
-   "RCK Div. I über 2000ccm 4WD"
-  ],
-  "1411": [
-   "RCK Div. I über 2000ccm 4WD"
-  ],
-  "1505": [
-   "OOE Div. II bis 1600ccm",
-   "RCK Div. II bis 1600ccm"
-  ],
-  "1506": [
-   "RCK Div. II bis 1600ccm"
-  ],
-  "1507": [
-   "RCK Div. II bis 1600ccm"
-  ],
-  "1509": [
-   "RCK Div. II bis 1600ccm"
-  ],
-  "1511": [
-   "OOE Div. II bis 1600ccm",
-   "RCK Div. II bis 1600ccm"
-  ],
-  "1512": [
-   "RCK Div. II bis 1600ccm"
-  ],
-  "1514": [
-   "RCK Div. II bis 1600ccm"
-  ],
-  "1515": [
-   "RCK Div. II bis 1600ccm"
-  ],
-  "1521": [
-   "RCK Div. II bis 1600ccm"
-  ],
-  "1522": [
-   "RCK Div. II bis 1600ccm"
-  ],
-  "1523": [
-   "RCK Div. II bis 1600ccm"
-  ],
-  "1524": [
-   "RCK Div. II bis 1600ccm"
-  ],
-  "1601": [
-   "RCK Div. II bis 2000ccm"
-  ],
-  "1603": [
-   "RCK Div. II bis 2000ccm"
-  ],
-  "1609": [
-   "RCK Div. II bis 2000ccm"
-  ],
-  "1610": [
-   "RCK Div. II bis 2000ccm"
-  ],
-  "1611": [
-   "RCK Div. II bis 2000ccm"
-  ],
-  "1703": [
-   "RCK Div. II über 2000ccm 2WD"
-  ],
-  "1704": [
-   "RCK Div. II über 2000ccm 2WD"
-  ],
-  "1710": [
-   "RCK Div. II über 2000ccm 2WD"
-  ],
-  "1711": [
-   "RCK Div. II über 2000ccm 2WD"
-  ],
-  "1712": [
-   "RCK Div. II über 2000ccm 2WD"
-  ],
-  "1713": [
-   "RCK Div. II über 2000ccm 2WD"
-  ],
-  "1714": [
-   "RCK Div. II über 2000ccm 2WD"
-  ],
-  "1805": [
-   "RCK Div. II über 2000ccm 4WD"
-  ],
-  "1806": [
-   "RCK Div. II über 2000ccm 4WD"
-  ],
-  "1807": [
-   "RCK Div. II über 2000ccm 4WD"
-  ],
-  "1809": [
-   "RCK Div. II über 2000ccm 4WD"
-  ],
-  "1810": [
-   "RCK Div. II über 2000ccm 4WD"
-  ],
-  "1811": [
-   "RCK Div. II über 2000ccm 4WD"
-  ],
-  "1812": [
-   "RCK Div. II über 2000ccm 4WD"
-  ]
+  "1": {
+   "cls": "Sonderwertung Challenge bis 90PS"
+  },
+  "2": {
+   "cls": "Sonderwertung Challenge bis 90PS"
+  },
+  "3": {
+   "cls": "Sonderwertung Challenge bis 90PS"
+  },
+  "4": {
+   "cls": "Sonderwertung Challenge bis 90PS"
+  },
+  "5": {
+   "cls": "Sonderwertung Challenge bis 90PS"
+  },
+  "6": {
+   "cls": "Sonderwertung Challenge bis 90PS"
+  },
+  "11": {
+   "cls": "Sonderwertung Challenge bis 150PS"
+  },
+  "21": {
+   "cls": "Sonderwertung GR-Challenge"
+  },
+  "22": {
+   "cls": "Sonderwertung GR-Challenge"
+  },
+  "23": {
+   "cls": "Sonderwertung GR-Challenge"
+  },
+  "24": {
+   "cls": "Sonderwertung GR-Challenge"
+  },
+  "25": {
+   "cls": "Sonderwertung GR-Challenge"
+  },
+  "26": {
+   "cls": "Sonderwertung GR-Challenge"
+  },
+  "27": {
+   "cls": "Sonderwertung GR-Challenge"
+  },
+  "28": {
+   "cls": "Sonderwertung GR-Challenge"
+  },
+  "29": {
+   "cls": "Sonderwertung GR-Challenge"
+  },
+  "30": {
+   "cls": "Sonderwertung GR-Challenge"
+  },
+  "31": {
+   "cls": "Sonderwertung GR-Challenge"
+  },
+  "32": {
+   "cls": "Sonderwertung GR-Challenge"
+  },
+  "33": {
+   "cls": "Sonderwertung GR-Challenge"
+  },
+  "34": {
+   "cls": "Sonderwertung GR-Challenge"
+  },
+  "35": {
+   "cls": "Sonderwertung GR-Challenge"
+  },
+  "36": {
+   "cls": "Sonderwertung GR-Challenge"
+  },
+  "37": {
+   "cls": "Sonderwertung GR-Challenge"
+  },
+  "38": {
+   "cls": "Sonderwertung GR-Challenge"
+  },
+  "39": {
+   "cls": "Sonderwertung GR-Challenge"
+  },
+  "61": {
+   "cls": "Div. III Formelfrei",
+   "cup": "OOE"
+  },
+  "66": {
+   "cls": "Div. III Formelfrei",
+   "cup": "OOE"
+  },
+  "69": {
+   "cls": "Div. III Formelfrei",
+   "cup": "OOE"
+  },
+  "81": {
+   "cls": "Div. III Formelfrei",
+   "cup": "OOE"
+  },
+  "144": {
+   "cls": "Div. I bis 1600ccm",
+   "cup": "RCK"
+  },
+  "147": {
+   "cls": "Div. I bis 1600ccm",
+   "cup": "O+K"
+  },
+  "148": {
+   "cls": "Div. I bis 1600ccm",
+   "cup": "O+K"
+  },
+  "155": {
+   "cls": "Div. I bis 1600ccm",
+   "cup": "OOE"
+  },
+  "167": {
+   "cls": "Div. I bis 1600ccm",
+   "cup": "O+K"
+  },
+  "241": {
+   "cls": "Div. I über 2000ccm 2WD",
+   "cup": "RCK"
+  },
+  "293": {
+   "cls": "Div. I über 2000ccm 4WD",
+   "cup": "OOE"
+  },
+  "295": {
+   "cls": "Div. I über 2000ccm 4WD",
+   "cup": "O+K"
+  },
+  "298": {
+   "cls": "Div. I über 2000ccm 4WD",
+   "cup": "OOE"
+  },
+  "301": {
+   "cls": "Div. I über 2000ccm 4WD",
+   "cup": "OOE"
+  },
+  "321": {
+   "cls": "Div. I über 2000ccm 4WD",
+   "cup": "OOE"
+  },
+  "335": {
+   "cls": "Div. I bis 1600ccm",
+   "cup": "OOE"
+  },
+  "336": {
+   "cls": "Div. I bis 1600ccm",
+   "cup": "OOE"
+  },
+  "337": {
+   "cls": "Div. I bis 2000ccm",
+   "cup": "OOE"
+  },
+  "338": {
+   "cls": "Div. I Sammelklasse",
+   "cup": "OOE"
+  },
+  "343": {
+   "cls": "Div. I bis 1600ccm",
+   "cup": "OOE"
+  },
+  "345": {
+   "cls": "Div. I bis 1600ccm",
+   "cup": "OOE"
+  },
+  "347": {
+   "cls": "Div. I bis 2000ccm",
+   "cup": "OOE"
+  },
+  "354": {
+   "cls": "Div. I bis 2000ccm",
+   "cup": "O+K"
+  },
+  "406": {
+   "cls": "Div. I über 2000ccm 4WD",
+   "cup": "RCK"
+  },
+  "407": {
+   "cls": "Div. I bis 2000ccm",
+   "cup": "RCK"
+  },
+  "409": {
+   "cls": "Div. I bis 2000ccm",
+   "cup": "OOE"
+  },
+  "452": {
+   "cls": "Div. I über 2000ccm 4WD",
+   "cup": "OOE"
+  },
+  "454": {
+   "cls": "Div. I über 2000ccm 2WD",
+   "cup": "OOE"
+  },
+  "455": {
+   "cls": "Div. I über 2000ccm 2WD",
+   "cup": "OOE"
+  },
+  "456": {
+   "cls": "Div. I über 2000ccm 2WD",
+   "cup": "OOE"
+  },
+  "515": {
+   "cls": "Div. II bis 1600ccm",
+   "cup": "RCK"
+  },
+  "651": {
+   "cls": "Div. II bis 1600ccm",
+   "cup": "OOE"
+  },
+  "652": {
+   "cls": "Div. II bis 1600ccm",
+   "cup": "OOE"
+  },
+  "691": {
+   "cls": "Div. II bis 1600ccm",
+   "cup": "OOE"
+  },
+  "705": {
+   "cls": "Div. II bis 2000ccm",
+   "cup": "O+K"
+  },
+  "709": {
+   "cls": "Div. II bis 1600ccm",
+   "cup": "O+K"
+  },
+  "751": {
+   "cls": "Div. II bis 2000ccm",
+   "cup": "OOE"
+  },
+  "753": {
+   "cls": "Div. II bis 2000ccm",
+   "cup": "OOE"
+  },
+  "758": {
+   "cls": "Div. II bis 2000ccm",
+   "cup": "O+K"
+  },
+  "760": {
+   "cls": "Div. II bis 2000ccm",
+   "cup": "OOE"
+  },
+  "799": {
+   "cls": "Div. II bis 2000ccm",
+   "cup": "OOE"
+  },
+  "802": {
+   "cls": "Div. II über 2000ccm",
+   "cup": "OOE"
+  },
+  "805": {
+   "cls": "Div. II über 2000ccm 4WD",
+   "cup": "O+K"
+  },
+  "806": {
+   "cls": "Div. II über 2000ccm 4WD",
+   "cup": "O+K"
+  },
+  "807": {
+   "cls": "Div. II über 2000ccm 2WD",
+   "cup": "RCK"
+  },
+  "825": {
+   "cls": "Div. II über 2000ccm 4WD",
+   "cup": "RCK"
+  },
+  "856": {
+   "cls": "Div. II über 2000ccm 4WD",
+   "cup": "O+K"
+  },
+  "1104": {
+   "cls": "Div. I bis 1600ccm",
+   "cup": "RCK"
+  },
+  "1105": {
+   "cls": "Div. I bis 1600ccm",
+   "cup": "O+K"
+  },
+  "1109": {
+   "cls": "Div. I bis 1600ccm",
+   "cup": "RCK"
+  },
+  "1116": {
+   "cls": "Div. I bis 1600ccm",
+   "cup": "O+K"
+  },
+  "1117": {
+   "cls": "Div. I bis 1600ccm",
+   "cup": "RCK"
+  },
+  "1118": {
+   "cls": "Div. I bis 1600ccm",
+   "cup": "RCK"
+  },
+  "1202": {
+   "cls": "Div. I bis 2000ccm",
+   "cup": "O+K"
+  },
+  "1204": {
+   "cls": "Div. I bis 2000ccm",
+   "cup": "RCK"
+  },
+  "1206": {
+   "cls": "Div. I bis 2000ccm",
+   "cup": "RCK"
+  },
+  "1207": {
+   "cls": "Div. I bis 2000ccm",
+   "cup": "RCK"
+  },
+  "1208": {
+   "cls": "Div. I bis 2000ccm",
+   "cup": "RCK"
+  },
+  "1231": {
+   "cls": "Div. I über 2000ccm 2WD",
+   "cup": "RCK"
+  },
+  "1305": {
+   "cls": "Div. I über 2000ccm 2WD",
+   "cup": "RCK"
+  },
+  "1312": {
+   "cls": "Div. I über 2000ccm 2WD",
+   "cup": "RCK"
+  },
+  "1314": {
+   "cls": "Div. I über 2000ccm 2WD",
+   "cup": "RCK"
+  },
+  "1315": {
+   "cls": "Div. I über 2000ccm 2WD",
+   "cup": "RCK"
+  },
+  "1316": {
+   "cls": "Div. I über 2000ccm 2WD",
+   "cup": "RCK"
+  },
+  "1317": {
+   "cls": "Div. I über 2000ccm 2WD",
+   "cup": "RCK"
+  },
+  "1319": {
+   "cls": "Div. I über 2000ccm 2WD",
+   "cup": "RCK"
+  },
+  "1320": {
+   "cls": "Div. I über 2000ccm 2WD",
+   "cup": "RCK"
+  },
+  "1321": {
+   "cls": "Div. I über 2000ccm 2WD",
+   "cup": "RCK"
+  },
+  "1404": {
+   "cls": "Div. II bis 2000ccm",
+   "cup": "RCK"
+  },
+  "1408": {
+   "cls": "Div. I über 2000ccm 4WD",
+   "cup": "RCK"
+  },
+  "1409": {
+   "cls": "Div. I über 2000ccm 4WD",
+   "cup": "RCK"
+  },
+  "1410": {
+   "cls": "Div. I über 2000ccm 4WD",
+   "cup": "RCK"
+  },
+  "1411": {
+   "cls": "Div. I über 2000ccm 4WD",
+   "cup": "RCK"
+  },
+  "1505": {
+   "cls": "Div. II bis 1600ccm",
+   "cup": "O+K"
+  },
+  "1506": {
+   "cls": "Div. II bis 1600ccm",
+   "cup": "RCK"
+  },
+  "1507": {
+   "cls": "Div. II bis 1600ccm",
+   "cup": "RCK"
+  },
+  "1509": {
+   "cls": "Div. II bis 1600ccm",
+   "cup": "RCK"
+  },
+  "1511": {
+   "cls": "Div. II bis 1600ccm",
+   "cup": "O+K"
+  },
+  "1512": {
+   "cls": "Div. II bis 1600ccm",
+   "cup": "RCK"
+  },
+  "1514": {
+   "cls": "Div. II bis 1600ccm",
+   "cup": "RCK"
+  },
+  "1515": {
+   "cls": "Div. II bis 1600ccm",
+   "cup": "RCK"
+  },
+  "1521": {
+   "cls": "Div. II bis 1600ccm",
+   "cup": "RCK"
+  },
+  "1522": {
+   "cls": "Div. II bis 1600ccm",
+   "cup": "RCK"
+  },
+  "1523": {
+   "cls": "Div. II bis 1600ccm",
+   "cup": "RCK"
+  },
+  "1524": {
+   "cls": "Div. II bis 1600ccm",
+   "cup": "RCK"
+  },
+  "1601": {
+   "cls": "Div. II bis 2000ccm",
+   "cup": "RCK"
+  },
+  "1603": {
+   "cls": "Div. II bis 2000ccm",
+   "cup": "RCK"
+  },
+  "1609": {
+   "cls": "Div. II bis 2000ccm",
+   "cup": "RCK"
+  },
+  "1610": {
+   "cls": "Div. II bis 2000ccm",
+   "cup": "RCK"
+  },
+  "1611": {
+   "cls": "Div. II bis 2000ccm",
+   "cup": "RCK"
+  },
+  "1703": {
+   "cls": "Div. II über 2000ccm 2WD",
+   "cup": "RCK"
+  },
+  "1704": {
+   "cls": "Div. II über 2000ccm 2WD",
+   "cup": "RCK"
+  },
+  "1710": {
+   "cls": "Div. II über 2000ccm 2WD",
+   "cup": "RCK"
+  },
+  "1711": {
+   "cls": "Div. II über 2000ccm 2WD",
+   "cup": "RCK"
+  },
+  "1712": {
+   "cls": "Div. II über 2000ccm 2WD",
+   "cup": "RCK"
+  },
+  "1713": {
+   "cls": "Div. II über 2000ccm 2WD",
+   "cup": "RCK"
+  },
+  "1714": {
+   "cls": "Div. II über 2000ccm 2WD",
+   "cup": "RCK"
+  },
+  "1805": {
+   "cls": "Div. II über 2000ccm 4WD",
+   "cup": "RCK"
+  },
+  "1806": {
+   "cls": "Div. II über 2000ccm 4WD",
+   "cup": "RCK"
+  },
+  "1807": {
+   "cls": "Div. II über 2000ccm 4WD",
+   "cup": "RCK"
+  },
+  "1809": {
+   "cls": "Div. II über 2000ccm 4WD",
+   "cup": "RCK"
+  },
+  "1810": {
+   "cls": "Div. II über 2000ccm 4WD",
+   "cup": "RCK"
+  },
+  "1811": {
+   "cls": "Div. II über 2000ccm 4WD",
+   "cup": "RCK"
+  },
+  "1812": {
+   "cls": "Div. II über 2000ccm 4WD",
+   "cup": "RCK"
+  }
  }
 }
