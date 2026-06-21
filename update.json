@@ -1,6 +1,6 @@
 {
-  "versionCode": 34,
-  "versionName": "4.3",
-  "apkUrl": "https://raw.githubusercontent.com/Roadrunner2204/Slalom-Livetiming/main/SlalomOEM-Livetiming-34.apk",
-  "notes": "Damenwertung: Fahrerinnen mit nur 1 Lauf behalten ihr Ranking (Abstand zur besten Einzelzeit der Klasse), auch wenn der Klassenerste schon den 2. Lauf gefahren hat. Kein Zurueckfallen mehr."
+  "versionCode": 35,
+  "versionName": "4.4",
+  "apkUrl": "https://raw.githubusercontent.com/Roadrunner2204/Slalom-Livetiming/main/SlalomOEM-Livetiming-35.apk",
+  "notes": "Browser-Version aktualisiert sich jetzt selbst: neue Versionen werden ohne manuelles Neuladen automatisch uebernommen."
 }
