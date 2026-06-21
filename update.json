@@ -1,6 +1,6 @@
 {
-  "versionCode": 28,
-  "versionName": "3.7",
-  "apkUrl": "https://raw.githubusercontent.com/Roadrunner2204/Slalom-Livetiming/main/SlalomOEM-Livetiming-28.apk",
-  "notes": "Neu: 'Wertung aendern' (Umnennung am Renntag, synchron auf alle Geraete) + Hilfe-Seite in den Einstellungen."
+  "versionCode": 29,
+  "versionName": "3.8",
+  "apkUrl": "https://raw.githubusercontent.com/Roadrunner2204/Slalom-Livetiming/main/SlalomOEM-Livetiming-29.apk",
+  "notes": "Damenwertung: an Tagen mit nur einer Meisterschaft (z.B. nur OEM Slalom) eine einzige Gesamtwertung statt Cup-/Klassen-Trennung. Abstand weiterhin zum 1. der eigenen Klasse."
 }
