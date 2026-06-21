@@ -1,6 +1,6 @@
 {
-  "versionCode": 29,
-  "versionName": "3.8",
-  "apkUrl": "https://raw.githubusercontent.com/Roadrunner2204/Slalom-Livetiming/main/SlalomOEM-Livetiming-29.apk",
-  "notes": "Damenwertung: an Tagen mit nur einer Meisterschaft (z.B. nur OEM Slalom) eine einzige Gesamtwertung statt Cup-/Klassen-Trennung. Abstand weiterhin zum 1. der eigenen Klasse."
+  "versionCode": 30,
+  "versionName": "3.9",
+  "apkUrl": "https://raw.githubusercontent.com/Roadrunner2204/Slalom-Livetiming/main/SlalomOEM-Livetiming-30.apk",
+  "notes": "Manuelles Hinzufuegen/Markieren einer Dame wird jetzt auf alle Geraete und den Browser synchronisiert (wie 'Wertung aendern')."
 }
