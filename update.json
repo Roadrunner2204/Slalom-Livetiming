@@ -1,6 +1,6 @@
 {
-  "versionCode": 32,
-  "versionName": "4.1",
-  "apkUrl": "https://raw.githubusercontent.com/Roadrunner2204/Slalom-Livetiming/main/SlalomOEM-Livetiming-32.apk",
-  "notes": "Damenwertung sortiert jetzt schon im Training korrekt nach Zeit (wie Klassen/Division/Gesamt), statt alphabetisch."
+  "versionCode": 33,
+  "versionName": "4.2",
+  "apkUrl": "https://raw.githubusercontent.com/Roadrunner2204/Slalom-Livetiming/main/SlalomOEM-Livetiming-33.apk",
+  "notes": "Wertung in 3 Stufen: 2 gueltige Laeufe vor 1 Einzelzeit vor DNF/DNS. Dadurch wird schon nach dem 1. Lauf sortiert (auch Damen), DNF/DNS landen hinten und koennen niemanden mit vollem Ergebnis ueberholen."
 }
